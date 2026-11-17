@@ -1,0 +1,17 @@
+{
+  "name": "phinite",
+  "owner": {
+    "name": "Phinite CIQ use-case team"
+  },
+  "metadata": {
+    "description": "Phinite tools for GitHub Copilot: build, ship, run and debug Phinite agent graphs."
+  },
+  "plugins": [
+    {
+      "name": "phinite",
+      "version": "0.4.3",
+      "source": "./",
+      "description": "Build, ship, run and debug Phinite agent graphs from GitHub Copilot."
+    }
+  ]
+}
